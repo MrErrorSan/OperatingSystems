@@ -1,0 +1,3 @@
+The Average is : 40
+The Maximum Marks are : 45
+The Minimum Marks are : 35
